@@ -25,8 +25,8 @@ Opcode  Operation
 - alu_4bit.v / tb_alu_4bit.v
 
 ## Simulation
-All modules simulated on EDA Playground using Icarus Verilog.
-Waveforms captured using EPWave and attached in rep as a pdf
+All modules simulated on EDA Playground using Verilog.
+Waveforms captured using EPWave and attached in repo as a pdf
 
 
 
